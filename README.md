@@ -21,13 +21,13 @@ I’m currently working on Automation Testing, learning phase in Data Science an
 **Languages and Tools:**
 - **Python**
 - **Selenium**
-**Robot Framework**
-**BDD Framework**
-**See Test Automation**
-**Appium**
-**Ansible**
-**Jenkins**
-**Tkinter (Python)**
+- **Robot Framework**
+- **BDD Framework**
+- **See Test Automation**
+- **Appium**
+- **Ansible**
+- **Jenkins**
+- **Tkinter (Python)**
 
 
 
