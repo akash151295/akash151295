@@ -15,9 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Akash Chaudhary !!
-I’m currently working on Automation Testing, learning phase in Data Science and AL, ML and looking to collaborate on Data Science, AL, ML and basic app development projects.
+**I'm Akash Chaudhary !!
+I’m currently working on Automation Testing, learning phase in Data Science and AL, ML and looking to collaborate on Data Science, AL, ML and basic app development projects.**
 
-Languages and Tools:
-https://camo.githubusercontent.com/9605be6e14ea9d51beb6a5cf1787b91ba10b126f73d49c7f9c42b2f4af69873a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6177732c7079746f7263682c74656e736f72666c6f772c70792c7068702c6d7973716c2c6d61746c61622c6c617465782c6c696e75782c706f7765727368656c6c2c61692c68746d6c2c6865726f6b752c6769742c666c61736b2c6669676d612c646973636f72642c6373732c6175746f6361642c666c7574746572267065726c696e653d33
+**Languages and Tools:**
+**Python
+Selenium
+Robot Framework
+BDD Framework
+See Test Automation
+Appium
+Ansible
+Jenkins
+Tkinter (Python)**
+
+
+
+
+
 
