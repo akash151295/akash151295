@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 I’m currently working on Automation Testing, learning phase in Data Science and AL, ML and looking to collaborate on Data Science, AL, ML and basic app development projects.**
 
 **Languages and Tools:**
-**Python
-Selenium
-Robot Framework
-BDD Framework
-See Test Automation
-Appium
-Ansible
-Jenkins
-Tkinter (Python)**
+**Python**
+**Selenium**
+**Robot Framework**
+**BDD Framework**
+**See Test Automation**
+**Appium**
+**Ansible**
+**Jenkins**
+**Tkinter (Python)**
 
 
 
