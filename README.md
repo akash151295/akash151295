@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Akash Chaudhary !!
-I’m currently working on Automation Testing and looking to collaborate on Data Science and basic app development projects.
+I’m currently working on Automation Testing, learning phase in Data Science and AL, ML and looking to collaborate on Data Science, AL, ML and basic app development projects.
 
