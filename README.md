@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋, I'm Akash Chaudhary
+I'm Akash Chaudhary !!
 I’m currently working on Automation Testing and looking to collaborate on Data Science and basic app development projects.
 
